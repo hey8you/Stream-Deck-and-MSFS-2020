@@ -10,6 +10,7 @@ Currently I only have lights and autopilot icons for Airbus A320, Boeing 747-8 a
 
 
 UPDATE 9-14-2020
+
 Added new icons: Engine Anti Ice, Wings Anti Ice, Landing gear indicators.
 
 Switching to .ZIP fles.
