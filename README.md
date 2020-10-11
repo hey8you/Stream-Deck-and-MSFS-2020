@@ -8,6 +8,11 @@ https://www.youtube.com/playlist?list=PLcgd8A46ykoQg_BtGZNZ2PcZsFyTIHqQN
 
 Currently I only have lights and autopilot icons for Airbus A320, Boeing 747-8 and Boeing 787-10. This is a weekend project for me so updates will be somewhat slow. If you have a icon you want, let me know I and I will do my best to get it for you on the next update.
 
+UPDATE 10-10-2020
+
+Icons for most planes included for all 3 editions. 2 icons are missing since 2 of the planes are basicly the same so I see no reasion to include. Added G3000 buttons.
+
+
 
 UPDATE 9-14-2020
 
